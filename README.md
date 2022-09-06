@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @asif0010
-- 👀 I’m interested in Programming, Electronics, Computer Science and data Science
-- 🌱 I’m currently learning Arduino
-- 💞️ I’m looking to collaborate on Data Science and Software Development Projects
-- 📫 You can reach me on Whatsapp: +2348107812081 or email:-jacobuworth@gmail.com
+  Hii..
+
+  Welcome to my Codridiction 
+  
+- 📫 You can reach me on Whatsapp: +2348107812081 or email:-ogunwolejamesolusegun1@gmail.com
 
 <!---
 asif0010/asif0010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
